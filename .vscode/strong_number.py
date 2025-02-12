@@ -26,3 +26,4 @@ if strong(num):
 else:
     print("not a strong number")
     
+
